@@ -47,7 +47,7 @@
 - 👯 I’m looking to collaborate on  real-world AI/ML projects, hackathons, or open-source contributions focused on productivity or mental wellness tools.
 - 🤔 I’m looking for help with deploying machine learning models efficiently and integrating them into real-world applications.
 - 💬 Ask me about ML projects, and Data Structures and Algorithms
-- 📫 How to reach me: [meeteshbansal@gmail.com] or connect with me on [https://www.linkedin.com/in/https://www.linkedin.com/in/meetesh-bansal-3375212ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- 📫 How to reach me: [Gmail](meeteshbansal@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/meetesh-bansal-3375212ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 - 😄 Pronouns: He/Him
 
 -->
