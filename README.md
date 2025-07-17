@@ -17,30 +17,9 @@
 🧩 Problem-Solving – C++ is my playground  
 🌐 Web Dev – Intuitive, creative, and efficient  
 
----
-
-## 📬 Let’s Connect!  
+-## 📬 Let’s Connect!  
 🔗 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/meetesh-bansal-3375212ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 🧠 Always open to discussing ML, AI, or cool tech ideas!  
-
----
-
-## 💻 Tech Stack  
-
-**Languages & Scripting**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-
-**Data Sceince & Machine Learning**  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=scikit-learn&logoColor=black)
-![Statistical Learning](https://img.shields.io/badge/Statistical%20Learning-6C3483?style=flat&logo=academia&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6384?style=flat&logo=chartdotjs&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
-**Database**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
- 
 
 - 🔭 I’m currently working on an AI-based personal habit coaching app that predicts habit-breaking patterns and provides smart motivational strategies.
 - 🌱 I’m currently learning Machine Learning, Deep Learning, and improving my problem-solving skills with C++ and Python.
@@ -50,4 +29,42 @@
 - 📫 How to reach me: [Gmail](meeteshbansal@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/meetesh-bansal-3375212ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 - 😄 Pronouns: He/Him
 
--->
+## 💻 Tech Stack
+
+### 👨‍💻 Languages & Scripting  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🤖 Data Science & Machine Learning  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Statistical Learning](https://img.shields.io/badge/Statistical%20Learning-7B68EE?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF69B4?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+---
+
+### 🗃️ Database  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🎨 Web & UI  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![P5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🛠 Tools  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
